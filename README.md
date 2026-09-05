@@ -18,10 +18,9 @@
 
 ## 👨‍💻 About Me
 
-<p>Hello! I'm **Tran Tan Dat** (Jun) – a **Web Developer** passionate about building web applications with **React** and **Next.js**.</p>
-<p>
+Hello! I'm **Tran Tan Dat** (Jun) – a **Web Developer** passionate about building web applications with **React** and **Next.js**.
 I'm always curious and eager to learn new technologies, especially in **Backend**, to achieve my goal of becoming a well-rounded **Fullstack Developer**.
-</p>
+
 
 ---
 
