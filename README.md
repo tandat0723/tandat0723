@@ -45,15 +45,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trantandat0723&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=ffffff&title_color=4FACFE&text_color=333333&icon_color=4FACFE"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tandat0723&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=ffffff&title_color=4FACFE&text_color=333333&icon_color=4FACFE"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trantandat0723&theme=default&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandat0723&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trantandat0723&layout=compact&theme=algolia&hide_border=true&bg_color=ffffff&title_color=4FACFE&text_color=333333"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandat0723&layout=compact&theme=algolia&hide_border=true&bg_color=ffffff&title_color=4FACFE&text_color=333333"/>
 </p>
 
 ---
