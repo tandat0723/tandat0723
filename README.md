@@ -1,17 +1,17 @@
-<!-- Header với hiệu ứng gradient và avatar -->
+<!-- Header với hiệu ứng gradient sáng -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4770FF&height=200&section=header&text=Tran%20Tan%20Dat&fontSize=50&fontColor=white&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=200&section=header&text=Tran%20Tan%20Dat&fontSize=50&fontColor=white&animation=fadeIn"/>
 </p>
 
-<!-- Badge giới thiệu -->
+<!-- Badge giới thiệu - màu sáng -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-Jun-4770FF?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend%20→%20Fullstack-6C63FF?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-Jun-4FACFE?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend%20→%20Fullstack-00D2FF?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-<!-- Typing animation -->
+<!-- Typing animation - màu sáng -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Jun+%F0%9F%91%8B;Web+Developer;React+%26+Next.js+Enthusiast;Learning+Fullstack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=500&lines=Hello!+I'm+Jun+%F0%9F%91%8B;Web+Developer;React+%26+Next.js+Enthusiast;Learning+Fullstack"/>
 </p>
 
 ---
@@ -43,7 +43,23 @@
 
 ---
 
-<!-- Footer -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4770FF&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=trantandat0723&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=ffffff&title_color=4FACFE&text_color=333333&icon_color=4FACFE"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trantandat0723&theme=default&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trantandat0723&layout=compact&theme=algolia&hide_border=true&bg_color=ffffff&title_color=4FACFE&text_color=333333"/>
+</p>
+
+---
+
+<!-- Footer với gradient sáng -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=120&section=footer"/>
 </p>
