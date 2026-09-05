@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Tran%20Tan%20Dat&fontSize=50&fontColor=white&animation=fadeIn"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trantandat0723&theme=vue"/>
 </p>
 
 <!-- Badge giới thiệu - màu sáng -->
