@@ -1,6 +1,5 @@
-<!-- Header với hiệu ứng gradient sáng -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=200&section=header&text=Tran%20Tan%20Dat&fontSize=50&fontColor=white&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Tran%20Tan%20Dat&fontSize=50&fontColor=white&animation=fadeIn"/>
 </p>
 
 <!-- Badge giới thiệu - màu sáng -->
