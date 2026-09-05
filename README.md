@@ -1,76 +1,68 @@
-<!-- Header Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4770FF&height=200&section=header&text=Hi,%20I'm%20Jun%20🎉&fontSize=60&fontColor=white"/>
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+%26+Automation+Enthusiast;Building+Autonomous+AI+Systems"/>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-> *"Building practical and reliable systems that reduce repetitive manual work"*
-
-- 🔭 I'm currently building **autonomous AI-powered web testing systems**
-- 🤖 Exploring **AI Agents**, **video processing**, and **media automation**
-- 🚀 Passionate about **AI system design** and **developer tools**
-- 🎯 Goal: **Reduce manual work through intelligent automation**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### AI & Automation
-![AI](https://img.shields.io/badge/-AI%20Agents-6C63FF?style=flat-square&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Automation](https://img.shields.io/badge/-Automation-00B4D8?style=flat-square&logo=github-actions&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
----
-
-## 🚀 What I'm Building
-
-| Project | Description |
-|---------|-------------|
-| **🤖 AI Web Testing** | Autonomous AI-powered web testing system |
-| **🎬 AI Video Processing** | AI video processing and localization tools |
-| **⚡ Backend Systems** | Scalable backend systems and automation |
-| **🛠️ Developer Tools** | AI-assisted developer productivity tools |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&hide_border=true&count_private=true&hide=contribs,prs"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=algolia&hide_border=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=180&section=header&text=Jun&fontSize=50&fontColor=white&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&langs_count=8"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+AI+%26+Automation"/>
 </p>
 
 ---
 
-<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square"/>
+  <b style="font-size: 20px; font-weight: 300; color: #1d1d1f;">Full-Stack Developer</b>
 </p>
+
+---
+
+<!-- Stats - Apple Style -->
+<h3 align="center" style="font-weight: 400; color: #6e6e73;">Metrics</h3>
+
+<p align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="padding: 20px; background: #f5f5f7; border-radius: 12px; min-width: 160px;">
+        <h3 style="margin: 0; font-size: 32px; font-weight: 600; color: #1d1d1f;">48</h3>
+        <p style="margin: 4px 0 0; font-size: 14px; color: #6e6e73;">Commits (Last Year)</p>
+      </td>
+      <td align="center" style="padding: 20px; background: #f5f5f7; border-radius: 12px; min-width: 160px;">
+        <h3 style="margin: 0; font-size: 32px; font-weight: 600; color: #1d1d1f;">882</h3>
+        <p style="margin: 4px 0 0; font-size: 14px; color: #6e6e73;">Stars Earned</p>
+      </td>
+      <td align="center" style="padding: 20px; background: #f5f5f7; border-radius: 12px; min-width: 160px;">
+        <h3 style="margin: 0; font-size: 32px; font-weight: 600; color: #1d1d1f;">7</h3>
+        <p style="margin: 4px 0 0; font-size: 14px; color: #6e6e73;">Repositories</p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<h3 align="center" style="font-weight: 400; color: #6e6e73;">Languages</h3>
+
+<p align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="background: #f5f5f7; border-radius: 12px;">
+    <tr>
+      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">Python</b> <span style="color: #6e6e73;">100%</span></td>
+      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">JavaScript</b> <span style="color: #6e6e73;">100%</span></td>
+      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">TypeScript</b> <span style="color: #6e6e73;">100%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">C++</b> <span style="color: #6e6e73;">100%</span></td>
+      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">C#</b> <span style="color: #6e6e73;">100%</span></td>
+      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">Java</b> <span style="color: #6e6e73;">100%</span></td>
+    </tr>
+  </table>
+</p>
+
+---
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4770FF&height=150&section=footer"/>
+  <span style="font-size: 14px; color: #6e6e73;">© 2026 Thach Nguyen</span>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=80&section=footer"/>
 </p>
