@@ -42,22 +42,6 @@ Hello! I'm **Tran Tan Dat** (Jun) – a **Web Developer** passionate about build
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tandat0723&show_icons=true&theme=algolia&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandat0723&theme=algolia&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandat0723&layout=compact&theme=algolia&hide_border=true"/>
-</p>
-
----
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4770FF&height=120&section=footer"/>
