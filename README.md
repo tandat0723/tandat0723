@@ -40,6 +40,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=tandat0723&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tandat0723&layout=compact&hide_border=true&theme=transparent&card_width=495"
+    alt="Top Languages"
+  >
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
