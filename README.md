@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&size=30&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Jun+%F0%9F%91%8B;Web+Developer;React+%26+Next.js+Enthusiast"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=200&section=header&text=Tran%20Tan%20Dat&fontSize=50&fontColor=white&animation=fadeIn"/>
 </p>
 
 <!-- Badge giới thiệu - màu sáng -->
