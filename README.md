@@ -1,15 +1,12 @@
-<!-- Header với hiệu ứng gradient màu sáng -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Tran%20Tan%20Dat&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- Badge giới thiệu - màu sáng gradient -->
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-Jun-00C9FF?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend%20→%20Fullstack-92FE9D?style=for-the-badge&logo=next.js&logoColor=white&color=92FE9D"/>
 </p>
 
-<!-- Typing animation - màu sáng mới -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Jun+%F0%9F%91%8B;Web+Developer;React+%26+Next.js+Enthusiast;Learning+Fullstack"/>
 </p>
@@ -43,23 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats (với màu sắc mới)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tandat0723&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=ffffff&title_color=00C9FF&text_color=333333&icon_color=92FE9D"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandat0723&theme=default&hide_border=true&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=00C9FF&sideNums=00C9FF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandat0723&layout=compact&theme=algolia&hide_border=true&bg_color=ffffff&title_color=00C9FF&text_color=333333"/>
-</p>
-
----
-
-<!-- Footer với gradient màu sáng mới -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
