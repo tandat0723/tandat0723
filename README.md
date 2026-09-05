@@ -45,12 +45,12 @@ Hello! I'm **Tran Tan Dat** (Jun) – a **Web Developer** passionate about build
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trantandat0723&show_icons=true&theme=algolia&hide_border=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=trantandat0723&theme=algolia&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tandat0723&show_icons=true&theme=algolia&hide_border=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tandat0723&theme=algolia&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trantandat0723&layout=compact&theme=algolia&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandat0723&layout=compact&theme=algolia&hide_border=true"/>
 </p>
 
 ---
