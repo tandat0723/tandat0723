@@ -1,68 +1,61 @@
-<!-- Header -->
+<!-- Header với hiệu ứng gradient và avatar -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=180&section=header&text=Jun&fontSize=50&fontColor=white&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4770FF&height=200&section=header&text=Tran%20Tan%20Dat&fontSize=50&fontColor=white&animation=fadeIn"/>
 </p>
 
+<!-- Badge giới thiệu -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+AI+%26+Automation"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-Jun-4770FF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend%20→%20Fullstack-6C63FF?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
----
-
+<!-- Typing animation -->
 <p align="center">
-  <b style="font-size: 20px; font-weight: 300; color: #1d1d1f;">Full-Stack Developer</b>
-</p>
-
----
-
-<!-- Stats - Apple Style -->
-<h3 align="center" style="font-weight: 400; color: #6e6e73;">Metrics</h3>
-
-<p align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" style="padding: 20px; background: #f5f5f7; border-radius: 12px; min-width: 160px;">
-        <h3 style="margin: 0; font-size: 32px; font-weight: 600; color: #1d1d1f;">48</h3>
-        <p style="margin: 4px 0 0; font-size: 14px; color: #6e6e73;">Commits (Last Year)</p>
-      </td>
-      <td align="center" style="padding: 20px; background: #f5f5f7; border-radius: 12px; min-width: 160px;">
-        <h3 style="margin: 0; font-size: 32px; font-weight: 600; color: #1d1d1f;">882</h3>
-        <p style="margin: 4px 0 0; font-size: 14px; color: #6e6e73;">Stars Earned</p>
-      </td>
-      <td align="center" style="padding: 20px; background: #f5f5f7; border-radius: 12px; min-width: 160px;">
-        <h3 style="margin: 0; font-size: 32px; font-weight: 600; color: #1d1d1f;">7</h3>
-        <p style="margin: 4px 0 0; font-size: 14px; color: #6e6e73;">Repositories</p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Jun+%F0%9F%91%8B;Web+Developer;React+%26+Next.js+Enthusiast;Learning+Fullstack"/>
 </p>
 
 ---
 
-<h3 align="center" style="font-weight: 400; color: #6e6e73;">Languages</h3>
+## 👨‍💻 About Me
+
+Hello! I'm **Tran Tan Dat** (Jun) – a **Web Developer** passionate about building web applications with **React** and **Next.js**. I'm always curious and eager to learn new technologies, especially in **Backend**, to achieve my goal of becoming a well-rounded **Fullstack Developer**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend (Learning)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="background: #f5f5f7; border-radius: 12px;">
-    <tr>
-      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">Python</b> <span style="color: #6e6e73;">100%</span></td>
-      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">JavaScript</b> <span style="color: #6e6e73;">100%</span></td>
-      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">TypeScript</b> <span style="color: #6e6e73;">100%</span></td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">C++</b> <span style="color: #6e6e73;">100%</span></td>
-      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">C#</b> <span style="color: #6e6e73;">100%</span></td>
-      <td style="padding: 12px 24px;"><b style="color: #1d1d1f;">Java</b> <span style="color: #6e6e73;">100%</span></td>
-    </tr>
-  </table>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trantandat0723&show_icons=true&theme=algolia&hide_border=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=trantandat0723&theme=algolia&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trantandat0723&layout=compact&theme=algolia&hide_border=true"/>
 </p>
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <span style="font-size: 14px; color: #6e6e73;">© 2026 Thach Nguyen</span>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4770FF&height=120&section=footer"/>
 </p>
