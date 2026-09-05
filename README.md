@@ -42,22 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tandat0723&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=ffffff&title_color=4FACFE&text_color=333333&icon_color=4FACFE"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandat0723&theme=default&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandat0723&layout=compact&theme=algolia&hide_border=true&bg_color=ffffff&title_color=4FACFE&text_color=333333"/>
-</p>
-
----
-
 <!-- Footer với gradient sáng -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=120&section=footer"/>
